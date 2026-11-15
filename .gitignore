@@ -1,0 +1,7 @@
+build/
+dist/*.exe
+!dist/VC2HD.exe
+VC2HD.ini
+VC2HD.log
+VC2HD.*.bak
+*.vc2hd.tmp
