@@ -1,6 +1,5 @@
 build/
-dist/*.exe
-!dist/VC2HD.exe
+dist/
 VC2HD.ini
 VC2HD.log
 VC2HD.*.bak
